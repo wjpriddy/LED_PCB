@@ -1,0 +1,29 @@
+Altium Designer Pick and Place Locations
+C:\Users\jackp\Documents\Altium Projects\RoomLED\Project Outputs for RoomLED\Pick Place\Pick Place for RoomLED.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       23/10/23
+Time:       18:56
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment           Layer    Footprint                Center-X(mil) Center-Y(mil) Rotation Description                                                                                        
+J3         PH1-01-UA         TopLayer FP-PH1-01-UA-MFG         5380.000      3375.000      0        "CONN HEADER VERT 1POS 2.54MM"                                                                     
+S1         BUTT-2            TopLayer SW_BUTT-2                2625.000      2320.000      0        "Tactile Switches MINI PUSH BUTTON SWITCH 2-PIN QTY. 4"                                            
+R6         MFR-25FBF52-100K  TopLayer RESA60-630X240           2955.000      3200.000      90       "Axial Resistor, 100 KOhm, +/- 1%, 0.25 W, -55 to 155 degC, 2-Pin THD, RoHS, Bulk"                 
+R5         MFR-25FBF52-100K  TopLayer RESA60-630X240           4242.000      3200.000      90       "Axial Resistor, 100 KOhm, +/- 1%, 0.25 W, -55 to 155 degC, 2-Pin THD, RoHS, Bulk"                 
+R4         MFR-25FBF52-100K  TopLayer RESA60-630X240           3384.000      3200.000      90       "Axial Resistor, 100 KOhm, +/- 1%, 0.25 W, -55 to 155 degC, 2-Pin THD, RoHS, Bulk"                 
+R3         MFR-25FBF52-100K  TopLayer RESA60-630X240           4671.000      3200.000      90       "Axial Resistor, 100 KOhm, +/- 1%, 0.25 W, -55 to 155 degC, 2-Pin THD, RoHS, Bulk"                 
+R2         MFR-25FBF52-100K  TopLayer RESA60-630X240           5100.000      3200.000      90       "Axial Resistor, 100 KOhm, +/- 1%, 0.25 W, -55 to 155 degC, 2-Pin THD, RoHS, Bulk"                 
+R1         MFR-25FBF52-100K  TopLayer RESA60-630X240           3813.000      3200.000      90       "Axial Resistor, 100 KOhm, +/- 1%, 0.25 W, -55 to 155 degC, 2-Pin THD, RoHS, Bulk"                 
+J2         61301011821       TopLayer 61301011821              3390.000      2085.000      0        ""                                                                                                 
+J1         61301011821       TopLayer 61301011821              4670.000      2085.000      0        ""                                                                                                 
+DS6        WP154A4SUREQBFZGC TopLayer KING-WP154A4SUREQBFZGC_V 3023.249      2630.000      270      "Full Color LED Lamp, Dominant Wavelength RGB 630 / 525 / 465 nm, -40 to 85 degC, 4-Pin THD, RoHS" 
+DS5        WP154A4SUREQBFZGC TopLayer KING-WP154A4SUREQBFZGC_V 4239.449      2630.000      270      "Full Color LED Lamp, Dominant Wavelength RGB 630 / 525 / 465 nm, -40 to 85 degC, 4-Pin THD, RoHS" 
+DS4        WP154A4SUREQBFZGC TopLayer KING-WP154A4SUREQBFZGC_V 3428.649      2630.000      270      "Full Color LED Lamp, Dominant Wavelength RGB 630 / 525 / 465 nm, -40 to 85 degC, 4-Pin THD, RoHS" 
+DS3        WP154A4SUREQBFZGC TopLayer KING-WP154A4SUREQBFZGC_V 4644.849      2630.000      270      "Full Color LED Lamp, Dominant Wavelength RGB 630 / 525 / 465 nm, -40 to 85 degC, 4-Pin THD, RoHS" 
+DS2        WP154A4SUREQBFZGC TopLayer KING-WP154A4SUREQBFZGC_V 5050.250      2630.000      270      "Full Color LED Lamp, Dominant Wavelength RGB 630 / 525 / 465 nm, -40 to 85 degC, 4-Pin THD, RoHS" 
+DS1        WP154A4SUREQBFZGC TopLayer KING-WP154A4SUREQBFZGC_V 3834.049      2630.000      270      "Full Color LED Lamp, Dominant Wavelength RGB 630 / 525 / 465 nm, -40 to 85 degC, 4-Pin THD, RoHS" 
